@@ -1,0 +1,1 @@
+The general purpose of this management program is to handle N computers on a room with power on/off control, statistics, log on/off control, log on user information, times... And many more!
